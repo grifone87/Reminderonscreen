@@ -1,0 +1,143 @@
+[
+  {
+    "Name": "antieconomica",
+    "ImagePath": "antieconomica.jpg",
+    "Message": "Imposta valore relitto",
+    "TextPosition": "above"
+  },
+  {
+    "Name": "attovandalico",
+    "ImagePath": "attovandalico.jpg",
+    "Message": "Verifica atto vandalico",
+    "TextPosition": "below"
+  },
+  {
+    "Name": "punto",
+    "ImagePath": "punto.jpg",
+    "Message": "",
+    "TextPosition": "right"
+  },
+{
+    "Name": "indirizzo",
+    "ImagePath": "indirizzo.jpg",
+    "Message": "verifica via",
+    "TextPosition": "below"
+  },
+
+{
+    "Name": "quattroruote",
+    "ImagePath": "quattroruote.jpg",
+    "Message": "alla data del sinistro / per sai novara a data polizza",
+    "TextPosition": "right"
+  },
+
+
+  {
+    "Name": "danneggiato",
+    "ImagePath": "danneggiato.jpg",
+    "Message": "IBAN o non ripara?",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "codice",
+    "ImagePath": "codice.jpg",
+    "Message": "Verifica codice",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "recuperoditta",
+    "ImagePath": "recuperoditta.jpg",
+    "Message": "RecuperoSI",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "colore",
+    "ImagePath": "colore.jpg",
+    "Message": "",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "compatibile",
+    "ImagePath": "compatibile.jpg",
+    "Message": "daver",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "ditta",
+    "ImagePath": "ditta.jpg",
+    "Message": "rec.iva si",
+    "TextPosition": "left"
+  },
+  {
+    "Name": "richiesto",
+    "ImagePath": "richiesto.jpg",
+    "Message": "sempre!",
+    "TextPosition": "left"
+  },
+  {
+    "Name": "imm",
+    "ImagePath": "imm.jpg",
+    "Message": "verifica imm",
+    "TextPosition": "below"
+  },
+  {
+    "Name": "km",
+    "ImagePath": "km.jpg",
+    "Message": "",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "numerofoto",
+    "ImagePath": "numerofoto.jpg",
+    "Message": "",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "pneumatici",
+    "ImagePath": "pneumatici.jpg",
+    "Message": "imposta 100",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "provincia",
+    "ImagePath": "provincia.jpg",
+    "Message": "",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "recupero",
+    "ImagePath": "recupero.jpg",
+    "Message": "Verifica recupero",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "revisione",
+    "ImagePath": "revisione.jpg",
+    "Message": "",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "riparatore",
+    "ImagePath": "riparatore.jpg",
+    "Message": "Fa fattura e delega?",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "sopralluogo",
+    "ImagePath": "sopralluogo.jpg",
+    "Message": "Verifica sopralluogo",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "uscita",
+    "ImagePath": "uscita.jpg",
+    "Message": "Verifica uscita",
+    "TextPosition": "right"
+  },
+  {
+    "Name": "valore",
+    "ImagePath": "valore.jpg",
+    "Message": "Verifica valore",
+    "TextPosition": "right"
+  }
+]
